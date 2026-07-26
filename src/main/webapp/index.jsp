@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> I love Sasitha gajji... </h1>
+         <h1> I love Sasitha Ruthu kutty... </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
